@@ -44,9 +44,11 @@ Review and Approval: Reviewing the documented requirements with stakeholders to 
 Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
+---
+
 ## Types of Requirements
-Functional Requirements ⚙️
-Definition: Describe what the system should do.
+**Functional Requirements ⚙️**
+**Definition:** Describe what the system should do.
 Examples: User authentication, property search, booking system, user registration.
 
 ## Key Functional Requirements:
@@ -68,6 +70,29 @@ Examples: Performance, security, scalability, usability, reliability.
 - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
+---
+
+## Use Case Diagrams 📊
+![Use Case Diagrams](./alx-booking-uc.png)
+
+**Objective:** Visual representation of interactions between users and the system.
+
+## What are Use Case Diagrams?
+
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+**Creating Use Case Diagrams:**
+- Identify actors (e.g., guest, registered user, admin).
+- Define use cases (e.g., search properties, book property, manage listings).
+- Draw interactions between actors and use cases.
+
+**Benefits of Use Case Diagrams:**
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+
+---
+
 ## Acceptance Criteria ✅
 **Objective**: Establishing clear criteria for feature completion.
 
@@ -83,6 +108,8 @@ How to Define Acceptance Criteria:
 - Ensure all parties have a clear understanding of feature requirements.
 - Provide a basis for testing and validation.
 - Help in maintaining quality and meeting user expectations.
+
+---
 
 ## Putting It All Together 📌
 **Steps to Conduct Requirement Analysis:**
